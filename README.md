@@ -1,0 +1,1 @@
+ Uma parede em formato retangular, cuja altura é (altura da parede) e a largura (largura da parede) precisa ser coberta por azulejos também retangulares. O azulejo retangular tem dimensões (altura do azulejo) e (largura do azulejo). Escreva um programa que leia as quatro medidas, calcule e imprima quanto azulejos com as medidas dadas são necessários para cobrir a parede dada.
